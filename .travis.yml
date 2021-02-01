@@ -1,0 +1,5 @@
+language: bash
+arch:
+  - amd64
+  - ppc64le
+script: make test
